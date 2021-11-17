@@ -1,0 +1,3 @@
+﻿  main.c
+d:\程式作業\110360233_彭雋中\5.35\source\main.c(34): warning C4244: '=': 將 'unsigned __int64' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW.vcxproj -> D:\程式作業\110360233_彭雋中\5.35\HW\Debug\HW.exe
